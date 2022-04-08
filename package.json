@@ -1,0 +1,25 @@
+{
+  "name": "7150606-react-intermediaire",
+  "version": "1.0.0",
+  "description": "Ce repo contient le code de base pour les exercices que vous trouverez dans le cours [OpenClassrooms - Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/7150606-React-intermediaire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/7150606-React-intermediaire/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/7150606-React-intermediaire#readme",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^5.3.5"
+  }
+}
